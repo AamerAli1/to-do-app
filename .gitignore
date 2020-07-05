@@ -1,0 +1,3 @@
+todoapp/
+__pycache__/
+*.sqlite3
